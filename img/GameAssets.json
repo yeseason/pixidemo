@@ -1,0 +1,60 @@
+{"frames": {
+
+"eggHead.png":
+{
+	"frame": {"x":176,"y":2,"w":71,"h":79},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":71,"h":79},
+	"sourceSize": {"w":71,"h":79}
+},
+"flowerTop.png":
+{
+	"frame": {"x":2,"y":39,"w":60,"h":91},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":91},
+	"sourceSize": {"w":60,"h":91}
+},
+"helmlok.png":
+{
+	"frame": {"x":176,"y":83,"w":62,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":62,"h":89},
+	"sourceSize": {"w":62,"h":89}
+},
+"multiplyIcon.png":
+{
+	"frame": {"x":64,"y":39,"w":25,"h":17},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":17},
+	"sourceSize": {"w":25,"h":17}
+},
+"shadow.png":
+{
+	"frame": {"x":2,"y":2,"w":92,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":92,"h":35},
+	"sourceSize": {"w":92,"h":35}
+},
+"skully.png":
+{
+	"frame": {"x":96,"y":2,"w":78,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":78,"h":83},
+	"sourceSize": {"w":78,"h":83}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "GameAssets.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "0.5",
+	"smartupdate": "$TexturePacker:SmartUpdate:bedd59593bd0d33aab4734948cd93b13$"
+}
+}
